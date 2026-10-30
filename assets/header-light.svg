@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Nova1Himanshu — practical software and AI projects</title><desc id="desc">Retail intelligence, interactive web experiences, and tools for everyday problems.</desc>
+<style>@keyframes drift {to {transform:translateX(18px)}} .mark {animation:drift 5s ease-in-out infinite alternate} @media(prefers-reduced-motion:reduce){.mark{animation:none}}</style>
+<rect width="1200" height="330" rx="20" fill="#FFF7FA"/>
+<path d="M36 38H1164" stroke="#701A3D" opacity=".3"/>
+<text x="52" y="83" font-family="monospace" font-size="16" fill="#701A3D">BUILD · EXPLORE · IMPROVE</text>
+<text x="48" y="155" font-family="Arial,sans-serif" font-weight="700" font-size="60" fill="#451126">Nova1Himanshu</text>
+<text x="52" y="203" font-family="Arial,sans-serif" font-size="24" fill="#701A3D">Practical software. Thoughtful interfaces. Applied AI.</text>
+<text x="52" y="273" font-family="monospace" font-size="16" fill="#701A3D">PYTHON / WEB / AI INTEGRATION / PRODUCT EXPLORATION</text>
+<g class="mark" fill="none" stroke="#701A3D" stroke-width="5"><path d="m1040 100-40 40 40 40m60-80 40 40-40 40"/><path d="m1084 94-28 92"/></g><path d="M52 225H680" stroke="#C77B9B" stroke-width="2" opacity=".65"/></svg>
