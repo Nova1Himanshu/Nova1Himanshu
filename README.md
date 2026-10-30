@@ -1,42 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=1">
-  <img src="assets/header-dark.svg?v=1" alt="Nova1Himanshu — practical software, thoughtful interfaces, and applied AI" width="100%">
-</picture>
+<img src="assets/nova-studio.svg?v=1" width="100%" alt="Nova1Himanshu — ideas from everyday life, built into things you can use. Applied AI, interactive web, practical tools.">
 
-# Hi, I'm Nova1Himanshu
+<p align="center"><a href="https://nova1himanshu.github.io/FORMA-/">Explore FORMA ↗</a> · <a href="https://github.com/Nova1Himanshu?tab=repositories">Browse repositories ↗</a></p>
 
-I build and explore software for everyday problems—from shop ledgers and rural coordination tools to interactive 3D experiences. My public projects combine Python, web interfaces, and AI integrations.
+## 01 / Behind the builds
 
-## Featured work
+I’m **Nova1Himanshu**. I explore software for everyday problems: making shop records understandable, documenting rural access challenges, and turning complex machines into interactive learning experiences.
 
-| Project | What I'm building | Explore |
-| --- | --- | --- |
-| **KhataSaathi AI** | Retail dashboard with customer credit, inventory alerts, and reviewed ledger-image extraction using Gemma 4 through Ollama. | [Source](https://github.com/Nova1Himanshu/-khata-saathi-ai) |
-| **FORMA** | Interactive automotive viewer with exploded views, an arcade driving demonstration, and a separate engine learning lab. | [Source](https://github.com/Nova1Himanshu/FORMA-) · [Website](https://nova1himanshu.github.io/FORMA-/) |
-| **GitHub Skills Engine** | Repository-based discovery and review of reusable AI skills, with manifests and automation. | [Source](https://github.com/Nova1Himanshu/github-skills-engine) |
-| **Rural Transport Logger** | Python and CSV tool for recording transport-access incidents, developed around rural mobility questions. | [Source](https://github.com/Nova1Himanshu/rural-transport-logger) |
-| **Rural Health Tracker** | Python tool for documenting healthcare-access incidents and referral patterns. | [Source](https://github.com/Nova1Himanshu/rural-health-tracker) |
-| **RidoBee — Product Validation & UX** | Early rural and semi-urban ride-hailing concept, documented through flows, mockups, and product research. | [Research](https://github.com/Nova1Himanshu/ridobee-ui-prototype) |
+I work through small prototypes, clear documentation, and iterative testing. My current focus is practical AI integration and interfaces that help people understand their data.
 
-## Working with
+## 02 / Selected builds
 
-- **Data and applications:** Python, Pandas, Streamlit
-- **Web experiences:** JavaScript, WebGL
-- **AI integration:** Ollama, Gemma 4
-- **Workflow:** Git, GitHub Actions
+<a href="https://github.com/Nova1Himanshu/-khata-saathi-ai"><img src="assets/project-ledger.svg?v=1" width="100%" alt="KhataSaathi AI: Clarity for the everyday shop. Customer credit. Inventory alerts. Reviewed OCR."></a>
 
-My current interests are practical AI assistants, accessible interfaces, interactive learning, and turning observed problems into small, testable tools.
+[Explore KhataSaathi AI →](https://github.com/Nova1Himanshu/-khata-saathi-ai)
 
-## How I approach projects
+<a href="https://github.com/Nova1Himanshu/FORMA-"><img src="assets/project-forma.svg?v=1" width="100%" alt="FORMA: Explore the machine beneath the surface. Interactive 3D. Exploded views. Engine learning."></a>
 
-- Keep financial calculations deterministic and review AI-generated records before saving.
-- Document setup steps, project status, and limitations.
-- Start with a focused prototype, test it, and improve it through use.
+[Explore FORMA →](https://github.com/Nova1Himanshu/FORMA-)
 
-## Connect
+<a href="https://github.com/Nova1Himanshu/github-skills-engine"><img src="assets/project-skills.svg?v=1" width="100%" alt="GitHub Skills Engine: Give reusable knowledge a review process. Discover. Collect. Review. Version."></a>
 
-Explore the repositories above to see the code, documentation, and current project status. For project-specific ideas or feedback, use the relevant repository's Issues when enabled.
+[Explore GitHub Skills Engine →](https://github.com/Nova1Himanshu/github-skills-engine)
 
+## 03 / From observation to prototype
+
+| Exploration | Purpose |
+| --- | --- |
+| [Rural Transport Logger](https://github.com/Nova1Himanshu/rural-transport-logger) | Record transport-access incidents using Python and CSV. |
+| [Rural Health Tracker](https://github.com/Nova1Himanshu/rural-health-tracker) | Document healthcare-access incidents and referral patterns. |
+| [RidoBee UX](https://github.com/Nova1Himanshu/ridobee-ui-prototype) | Explore rural mobility through flows, mockups, and product research. |
+
+## 04 / The workbench
+
+<img src="assets/toolkit-studio.svg?v=1" width="100%" alt="Data and apps: Python, Pandas, Streamlit. Web: JavaScript, WebGL, Web Audio. AI and workflow: Ollama, Gemma 4, Git, GitHub Actions.">
+
+## 05 / Build principles
+
+**Observe carefully.** Start with a concrete problem.  
+**Make it understandable.** Explain setup, behavior, and limitations.  
+**Keep AI accountable.** Calculate ledger figures in code and review generated records.  
+**Improve through use.** Test assumptions and refine the smallest useful version.
+
+## 06 / Follow the work
+
+[Public repositories](https://github.com/Nova1Himanshu?tab=repositories) · [Contribution activity](https://github.com/Nova1Himanshu?tab=overview) · [FORMA live experience](https://nova1himanshu.github.io/FORMA-/)
+
+For project ideas and feedback, use the relevant repository’s Issues when enabled.
 
 ![Build with intention. Improve through use.](assets/footer.svg?v=1)
